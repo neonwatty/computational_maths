@@ -17,6 +17,7 @@ This repo contains a small collection of interactive Jupyter notebooks explainin
 
 [5.  Recursive functions](https://nbviewer.jupyter.org/github/jermwatt/computational_maths/blob/master/compmaths_notebooks/Part_5_recursive_functions.ipynb)
 
+
 <img src="https://github.com/jermwatt/computational_maths/blob/master/demo_images/Nurgetson.gif" width="425"/> <img src="https://github.com/jermwatt/computational_maths/blob/master/demo_images/graph.png" width="425"/> 
 
 
