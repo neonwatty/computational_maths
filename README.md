@@ -2,11 +2,7 @@
 This repo contains a small collection of Jupyter notebooks explaining some basic computational math, with illustrations using numpy and matplotlib.  Download [Anaconda Python 3 distribution](https://www.anaconda.com/download/#macos) to make full use of these notebooks locally.
 
 
-![alt text](https://github.com/jermwatt/computational_maths/blob/master/demo_images/Nurgetson.gif) ![alt text](https://github.com/jermwatt/computational_maths/blob/master/demo_images/hyper.gif)
-
-
-
-<img src="https://github.com/jermwatt/computational_maths/blob/master/demo_images/Nurgetson.gif" width="425"/> <img src="image2.png" width="425"/> 
+<img src="https://github.com/jermwatt/computational_maths/blob/master/demo_images/Nurgetson.gif" width="425"/> <img src="https://github.com/jermwatt/computational_maths/blob/master/demo_images/hyper.gif" width="425"/> 
 
 
 
