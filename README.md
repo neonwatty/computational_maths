@@ -6,6 +6,11 @@ This repo contains a small collection of Jupyter notebooks explaining some basic
 
 
 
+<img src="https://github.com/jermwatt/computational_maths/blob/master/demo_images/Nurgetson.gif" width="425"/> <img src="image2.png" width="425"/> 
+
+
+
+
 
 [1.  What is a function?](https://nbviewer.jupyter.org/github/jermwatt/computational_maths/blob/master/compmaths_notebooks/Part_1_mathematical_functions.ipynb)
 
