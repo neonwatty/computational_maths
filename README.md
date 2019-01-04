@@ -3,7 +3,6 @@ This repo contains a small collection of Jupyter notebooks explaining some basic
 
 
 ![alt text](https://github.com/jermwatt/computational_maths/blob/master/demo_images/Nurgetson.gif)
-
 ![alt text](https://github.com/jermwatt/computational_maths/blob/master/demo_images/hyper.gif)
 
 
