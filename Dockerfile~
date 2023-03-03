@@ -1,0 +1,18 @@
+FROM jupyter/scipy-notebook
+
+# insist on root user by default
+USER root
+
+# linux updates and installs
+RUN apt-get update
+RUN apt-get install -y apt-utils
+RUN apt-get update
+RUN apt-get install -y vim
+RUN apt-get install -y curl
+RUN apt-get update
+RUN apt-get install -y python3-pip
+RUN apt-get update
+RUN apt-get install -y sqlite3
+
+# python installs
+RUN pip3 install requirements.txt
