@@ -3,12 +3,12 @@ This repo contains a small collection of Jupyter notebooks explaining some basic
 
 ## Contents 
 
-[![part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/computational_maths/blob/collab/Part_1_mathematical_functions.ipynb)
 
 
 
 
-[1.  What is a function?](https://nbviewer.jupyter.org/github/jermwatt/computational_maths/blob/master/compmaths_notebooks/Part_1_mathematical_functions.ipynb)
+
+### 1.  What is a function?  [![part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/computational_maths/blob/collab/Part_1_mathematical_functions.ipynb)
 
 
 [2.  Elementary functions and operations](https://nbviewer.jupyter.org/github/jermwatt/computational_maths/blob/master/compmaths_notebooks/Part_2_elementary_components.ipynb)
