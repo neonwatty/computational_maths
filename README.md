@@ -18,7 +18,7 @@ This repo contains a small collection of Jupyter notebooks explaining some basic
 ### 5.  Recursive functions   [![part 5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/computational_maths/blob/collab/Part_5_recursive_functions.ipynb)
 
 
-### Examples of illustrations given in the notebooks
+## Examples of illustrations given in the notebooks
 
 <img src="https://github.com/jermwatt/computational_maths/blob/master/demo_images/Nurgetson.gif" width="425"/> <img src="https://github.com/jermwatt/computational_maths/blob/master/demo_images/graph.png" width="425"/> 
 
