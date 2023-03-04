@@ -344,7 +344,7 @@ def poly_3d_plotter():
     degree_dict = {}
 
     # build 4 polynomial basis elements
-    fig = plt.figure(num=None, figsize = (16,5), dpi=80, facecolor='w', edgecolor='k')
+    fig = plt.figure(num=None, figsize = (16,8), dpi=80, facecolor='w', edgecolor='k')
 
     ### plot regression surface ###
     p =  [0,1,1,2]
