@@ -1,5 +1,5 @@
 # An introduction to basic computational maths
-This repo contains a small collection of Jupyter notebooks easily runnable in Google Collab explaining some basic computational math, with illustrations using numpy and matplotlib.  Download [Anaconda Python 3 distribution](https://www.anaconda.com/download/#macos) to make full use of these notebooks locally.
+This repo contains a small collection of Jupyter notebooks explaining some basic computational math, with illustrations using numpy and matplotlib.  All notebooks are runnable in Google Collab via the links below.
 
 ## Contents
 
