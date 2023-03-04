@@ -5,7 +5,7 @@ This repo contains a small collection of Jupyter notebooks explaining some basic
 
 <a href=\"https://colab.research.google.com/github/jermwatt/computational_maths/blob/collab/Part_1_mathematical_functions.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
 
-<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+<a href=\"https://colab.research.google.com/github/jermwatt/computational_maths/blob/collab/Part_1_mathematical_functions.ipynb\" rel="some text">![Foo](https://colab.research.google.com/assets/colab-badge.svg)</a>
 
 
 [1.  What is a function?](https://nbviewer.jupyter.org/github/jermwatt/computational_maths/blob/master/compmaths_notebooks/Part_1_mathematical_functions.ipynb)
