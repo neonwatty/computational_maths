@@ -3,7 +3,7 @@ This repo contains a small collection of Jupyter notebooks explaining some basic
 
 ## Contents 
 
-[![A mushroom-head robot](https://colab.research.google.com/assets/colab-badge.svg 'part 1')]([https://codecademy.com](https://colab.research.google.com/github/jermwatt/computational_maths/blob/collab/Part_1_mathematical_functions.ipynb))
+[![part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/computational_maths/blob/collab/Part_1_mathematical_functions.ipynb)
 
 
 
