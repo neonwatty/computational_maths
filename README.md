@@ -1,6 +1,7 @@
 # An introduction to basic computational maths
 This repo contains a small collection of Jupyter notebooks explaining some basic computational math, with illustrations using numpy and matplotlib.  All notebooks are runnable in Google Collab via the links below.
 
+## Notebooks
 
 ### 1.  What is a function?    [![part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jermwatt/computational_maths/blob/collab/Part_1_mathematical_functions.ipynb)
 
