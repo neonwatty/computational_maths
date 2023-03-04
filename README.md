@@ -3,6 +3,9 @@ This repo contains a small collection of Jupyter notebooks explaining some basic
 
 ## Contents 
 
+[![](http://i.stack.imgur.com/vwxyz.png)](http://i.stack.imgur.com/vwxyz.png)
+
+
 <a href=\"https://colab.research.google.com/github/jermwatt/computational_maths/blob/collab/Part_1_mathematical_functions.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
 
 <a href=\"https://colab.research.google.com/github/jermwatt/computational_maths/blob/collab/Part_1_mathematical_functions.ipynb\" rel="some text">![Foo](https://colab.research.google.com/assets/colab-badge.svg)</a>
