@@ -38,7 +38,7 @@ def single_plot(table,**kwargs):
     
     # single two dimensonal plot
     if dim == 2:
-        fig = plt.figure(figsize = (7,3))
+        fig = plt.figure(figsize = (13,5))
 
         # create subplot with 3 panels, plot input function in center plot
         gs = gridspec.GridSpec(1, 3, width_ratios=[1,3, 1]) 
@@ -124,7 +124,7 @@ def double_plot(table1,table2,**kwargs):
         fontsize = kwargs['fontsize']
         
     # plot the functions 
-    fig = plt.figure(figsize = (12,4))
+    fig = plt.figure(figsize = (15,5))
     gs = gridspec.GridSpec(1, 2, width_ratios=[1, 1]) 
     ax1 = plt.subplot(gs[0]); 
     ax2 = plt.subplot(gs[1]); 
